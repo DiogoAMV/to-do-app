@@ -1,6 +1,6 @@
 # To do app
 
-A simple to-do list app, built with ReactJS.
+Um aplicativo simples de lista de tarefas construído com ReactJS.
 
 ![todoapp](preview.png)
 
